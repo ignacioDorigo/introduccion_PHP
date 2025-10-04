@@ -1,6 +1,6 @@
 <?php include 'includes/header.php';
 
-
+// Mismos que en JS
 
 
 
